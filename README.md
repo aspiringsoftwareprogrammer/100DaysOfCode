@@ -1,1 +1,1 @@
-# Java100DaysOfCode
+# 100DaysOfCode
